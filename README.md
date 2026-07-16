@@ -1,109 +1,143 @@
+<div align="center">
 
-<h1 align="center">🚗💥 GTA 6 — Fan Landing Page 🌆🔥</h1>
+# 🚗 GTA 6 Fan Landing Page
 
-<p align="center">
-  <a href="https://gta-6-pi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Live Preview-GTA%206-green?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview"/>
+A modern, responsive landing page inspired by the visual style and atmosphere of **Grand Theft Auto VI**. Built with **Next.js** and **Tailwind CSS**, this project showcases creative frontend design, smooth animations, and a polished user experience.
+
+<p>
+  <a href="https://gta-6-pi.vercel.app/">
+    <strong>🌐 Live Demo</strong>
   </a>
 </p>
 
-<p align="center">
-  A sleek, high-energy landing page concept for <strong>GTA 6</strong> — built with Next.js, Tailwind, and vibes straight outta Vice City 🌴💸<br>
-  <em>Just a fan tribute to the most hyped game in the world 🎮</em>
-</p>
+</div>
+
+> **Disclaimer:** This is a fan-made educational project created for learning and portfolio purposes. It is not affiliated with or endorsed by Rockstar Games or Take-Two Interactive.
 
 ---
 
-## 🖥️ Live Preview
+## ✨ Features
 
-🟢 [**Check it Out Here**](https://gta-6-pi.vercel.app/) — Hosted on Vercel ⚡
+- 🎮 GTA VI inspired landing page design
+- ⚡ Modern UI with smooth animations
+- 📱 Fully responsive across all devices
+- 🧩 Modular and reusable React components
+- 🚀 Optimized performance with Next.js
+- 🎨 Styled using Tailwind CSS
+- 🌙 Clean, immersive gaming-inspired interface
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech           | Description                                  |
-|----------------|----------------------------------------------|
-| ⚛️ React.js    | Dynamic and interactive UI                  |
-| 💨 Tailwind CSS| Utility-first CSS with blazing speed         |
-| 🌐 Next.js     | Server-side rendering & optimized routing    |
-| ▲ Vercel       | Super-fast and effortless deployment         |
+| Technology | Purpose |
+|------------|---------|
+| Next.js | React Framework |
+| React | UI Development |
+| Tailwind CSS | Styling |
+| JavaScript | Application Logic |
+| Vercel | Deployment |
 
 ---
 
-## 🎯 Key Features
+## 📂 Project Structure
 
-- 🎮 Game-themed animated UI
-- 📱 100% responsive (mobile-first)
-- ✨ Clean code & modular components
-- 🔁 Smooth transitions & scroll navigation
-- 🚫 No copyrighted assets – totally original
+```text
+GTA6/
+├── components/
+│   ├── Hero.jsx
+│   └── Navbar.jsx
+├── pages/
+│   └── index.js
+├── public/
+│   └── images/
+├── styles/
+│   └── globals.css
+├── tailwind.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/tushardevx01/GTA6.git
+```
+
+### Navigate to the Project
+
+```bash
+cd GTA6
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open **http://localhost:3000** in your browser.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **https://gta-6-pi.vercel.app/**
 
 ---
 
 ## 💡 Inspiration
 
-Inspired by:
+This project draws inspiration from:
 
-- The **official GTA 6 trailer** 🏖️
-- Rockstar's bold visual style 🎨
-- Passion for gaming and frontend dev 💻
-
----
-
-## 📁 Folder Breakdown
-
-```bash
-GTA6/
-├── components/         # Reusable UI blocks
-│   ├── Hero.jsx
-│   └── Navbar.jsx
-├── pages/              # Page routing (Next.js)
-│   └── index.js
-├── public/             # Static assets
-│   └── images/
-│       └── screenshot1.png
-├── styles/             # Global styles
-│   └── globals.css
-└── tailwind.config.js  # Tailwind setup
-````
+- Grand Theft Auto VI's visual identity
+- Modern game landing pages
+- Contemporary web design trends
+- Frontend animation and interactive UI concepts
 
 ---
 
-## 👨‍💻 Developed By
+## 🤝 Contributing
 
-> Made with ❤️ and caffeine by
-> **[Tushar Kanti Dey](https://github.com/Tusharxhub)**
+Contributions are welcome.
 
-📧 [Email Me](mailto:t.k.d.dey2033929837@gmail.com)
+1. Fork the repository.
+2. Create a feature branch.
+3. Commit your changes.
+4. Push the branch.
+5. Open a Pull Request.
 
-🔗 [GitHub](https://github.com/Tusharxhub)
+---
 
-📸 [Instagram](https://www.instagram.com/tushardevx01/)
+## 📬 Connect With Me
+
+- **GitHub:** https://github.com/tushardevx01
+- **Portfolio:** https://tushardevx01.tech
+- **LinkedIn:** https://www.linkedin.com/in/tushardevx01
+- **Instagram:** https://www.instagram.com/tushardevx01/
+- **Email:** t.k.d.dey2033929837@gmail.com
 
 ---
 
 ## ⚠️ Disclaimer
 
-> This is a **fan-made, educational project**.
-> Not associated with Rockstar Games or Take-Two Interactive.
-> Just vibes, code, and admiration. 🫶
+This repository is an independent fan project created solely for educational and portfolio purposes. All trademarks, logos, and intellectual property related to **Grand Theft Auto** belong to **Rockstar Games** and **Take-Two Interactive**.
 
 ---
 
-## 🚀 Support & Feedback
+<div align="center">
 
-If this page made you go **"Uff uff cheler rizz dekho"** 😎
-Then don’t forget to:
+Made with ❤️ by **Tushar Kanti Dey**
 
-* ⭐️ Star the repo
-* 🍴 Fork it
-* 🚀 Share it
-* 💬 Drop feedback
+⭐ If you enjoyed this project, consider giving it a star.
 
----
-
-<p align="center">
-  <b>Thanks for scrolling 💖 Stay hyped for GTA 6!</b><br/>
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/gta-vice-city.gif" width="400"/>
-</p>
+</div>
